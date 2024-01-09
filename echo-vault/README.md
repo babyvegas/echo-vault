@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
 
-Proyecto para Portafolio de Donovan Barrientos.
+Proyecto Web para Portafolio de Donovan Barrientos.
 
 ## Development server
 
