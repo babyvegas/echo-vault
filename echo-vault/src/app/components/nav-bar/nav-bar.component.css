@@ -2,7 +2,10 @@ nav {
   background-color: #fff;  /* Fondo blanco */
   padding: 10px;
   border-bottom: 1px solid #ddd; /* Borde inferior opcional para separar de la página principal */
+  max-width: 80%;
+  align-items: center;
 }
+
 
 ul {
   list-style: none;
