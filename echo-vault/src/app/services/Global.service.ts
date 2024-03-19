@@ -101,7 +101,7 @@ export class SpotifyService {
     document.getElementById("uri")!.setAttribute("href", profile.external_urls.spotify);
     document.getElementById("url")!.innerText = profile.href;
     document.getElementById("url")!.setAttribute("href", profile.href);
-    document.getElementById("imgUrl")!.innerText = profile.images[0]?.url ?? '(no profile image)';
+    document.getElementById("imgUrl")!.innerText = profile.images[0]?.url ?? '(no profile image found)';
   }
 
 }
